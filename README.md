@@ -17,5 +17,5 @@
  
  In the client side, we have created a component to show all the records in a table where we do not display the
  entire record information until user clicks on the details button that is placed in the first column, when the button is clicked 
- we launch a modal built in a different component that renders all details of the record which could be more user-friendly interface instead of
+ we launch a modal built in a different component that renders all the details of the record which could be more user-friendly interface instead of
  showing all the data in each row of the table.
