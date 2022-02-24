@@ -1,4 +1,4 @@
-# OpslineTest Set up
+# Set up
 
  1. Download or clone the project.
  2. Open a command window for client folder and other one for the api folder.
